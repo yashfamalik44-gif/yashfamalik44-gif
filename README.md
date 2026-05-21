@@ -31,16 +31,6 @@
 
 ---
 
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/yashfamalik44-gif">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashfamalik44-gif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
 ### 🤝 Let's Connect:
 
 <p align="left">
