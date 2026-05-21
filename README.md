@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Yashfa Malik]</h1>
-<h3 align="center">A passionate Web Developer & Digital Marketer from Multan, Pakistan 🇵🇰</h3>
+<h1 align="center">Hi 👋, I'm Yashfa Malik</h1>
+<h3 align="center">Aspiring Researcher & Tech Enthusiast | Exploring Data & Innovation 🔬💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashfamalik44-gif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,24 +7,26 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🔬 About Me
 
-- 🔭 I’m currently building **Digital Solutions & Websites for Real Estate Agencies**
-- 🌱 I’m currently focused on **Advanced Web Development & Lead Generation Strategies**
-- 💬 Ask me about **Web Development, UI/UX, and Digital Marketing**
+- 🎓 I’m a student passionate about **Scientific Research, Data Analysis, and Engineering Innovations**.
+- 🔬 Currently exploring opportunities for **International Research Internships** to contribute to impactful academic and industrial projects.
+- 💡 My core focus is transforming complex data into intelligent solutions through code and analytical thinking.
+- 🎯 Areas of interest: **[Human nutrition and dietetics ]**
 - 📫 How to reach me: **[yashfamalik44@gmail.com]**
 
 ---
 
-### 🛠️ Languages and Tools I Use:
+### 🛠️ Technical Skills & Tools:
+*(Tools used for Research & Data Analysis)*
 
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
